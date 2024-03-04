@@ -55,7 +55,7 @@ for i in range(4):
 
 
 
-# Helper functions for linear regression
+# Helper function for linear regression
 def betas(x, y):
     n = len(x)
     x_sum = sum(x)
